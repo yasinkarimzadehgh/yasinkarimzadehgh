@@ -1,4 +1,4 @@
-<h2>Hi There! I'm Mohammad Amin Saeedi Rad 🖐</h2>
+<h2>Hi There! I'm Yasin Karimzadeh 🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
