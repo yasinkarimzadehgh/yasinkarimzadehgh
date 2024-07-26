@@ -1,44 +1,55 @@
-Hi 🙋‍♂️ My name is Yasin Karimzadeh
-======
+<!--
+# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کن. 😃
+-->
 
-Mern Stack Developer
+```math
+Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{n}))
+```
 
----
+<!--
+```math
+Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
+``` 
+-->
 
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+![header image](Header.gif)
 
-- 🌍  I'm based in Tehran (Iran)
-- 🧠  I'm learning NextJS
-- 🤝  I'm open to collaborating on React based projects
-- ⚡  Professional Developer Ant Coach In Javascript Based Courses
+```js
+const response = {
+  status: 200,
+  data: {
+    fullName: "Ehsan Shahbazi",
+    birthDay: "2002 January 21, Monday",
+    university: "Computer Engineering Tabriz",
+    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
+    languages: [".java(4x)", ".js(3x)", ".py(3x)", ".cpp(1x)"],
+    quote: "Do something that makes people's lives easier.",
+    currently: STUDING_FOR_MS_EXAMINATION
+  },
+};
+```
+[![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
+[![CodeForces](https://img.shields.io/badge/codeforces-%2320232a.svg?style=for-the-badge&logo=codeforces&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codeforces.com/profile/Ehsan_Shahbazi) 
+[![CodePen](https://img.shields.io/badge/codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codepen.io/ehsanshahbazii) 
+[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
+[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/EhsanShahbazii) 
+[![Kaggle](https://img.shields.io/badge/kaggle-%2320232a.svg?style=for-the-badge&logo=kaggle&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.kaggle.com/ehsanshahbazii) 
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/20102950/ehs4n)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/15362009/ehsan-shahbazi) 
+[![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
+[![medium](https://img.shields.io/badge/medium-%2320232a.svg?style=for-the-badge&logo=medium&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://medium.com/@ehsan_shahbazi) 
+[![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) 
+[![Skype](https://img.shields.io/badge/skype-%2320232a.svg?style=for-the-badge&logo=Skype&logoColor=white?url=https://codepen.io/ehsanshahbazii)](http://join.skype.com/invite/MKC6cRncYViX) 
+[![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
+[![virgool](https://img.shields.io/badge/virgool-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://virgool.io/@ehsanshahbazii) 
 
-### Skills
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-### Social
-
-<p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
-</p>
-
-### Support Me
-
-<a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
+<a href="http://www.coffeete.ir/ehsan.shahbazi13801380">
+  <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:170px;" />
 </a>
+
+<!-- ![Readme Quotes Ehsan Shahbazi](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin) -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanshahbazii&show_icons=true&locale=en" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanshahbazii" /></p> -->
