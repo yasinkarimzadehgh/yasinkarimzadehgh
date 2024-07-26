@@ -8,7 +8,7 @@ const response = {
     birthDay: "1998 February 21, Saturday",
     BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
     MasterDegree: "Finance, Allameh Tabataba'i University",
-    languages: ["JavaScript", "Python", "HTML", "CSS"],
+    languages: ["JavaScript", "Python", "c++", "HTML", "CSS"],
     tools: ["React", "Redux", "Styled Componenets", "Tailwind"],
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     quote: "Keep it clean and simple.",
