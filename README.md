@@ -7,7 +7,8 @@ const response = {
     BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
     MasterDegree: "Finance, Allameh Tabataba'i University",
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
-    languages: [".js(3x)", ".py(1x)", ".cpp(1x)"],
+    languages: ["JavaScript", "Python", "HTML", "CSS"],
+    tools: ["React", "Redux", "Tailwind", "Styled Componenets"],
     quote: "Do something that makes people's lives easier.",
   },
 };
