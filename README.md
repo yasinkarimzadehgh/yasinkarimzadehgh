@@ -8,9 +8,9 @@ const response = {
     birthDay: "1998 February 21, Saturday",
     BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
     MasterDegree: "Finance, Allameh Tabataba'i University",
-    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     languages: ["JavaScript", "Python", "HTML", "CSS"],
-    tools: ["React", "Redux", "Tailwind", "Styled Componenets"],
+    tools: ["React", "Context API", "Redux", "Styled Componenets", "SASS", "Bootstrap", "Tailwind"],
+    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     quote: "Do something that makes people's lives easier.",
   },
 };
