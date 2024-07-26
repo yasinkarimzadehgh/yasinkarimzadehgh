@@ -31,16 +31,8 @@ const response = {
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://www.linkedin.com/in/yasinkarimzadehghara/) 
-[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/EhsanShahbazii) 
-[![Kaggle](https://img.shields.io/badge/kaggle-%2320232a.svg?style=for-the-badge&logo=kaggle&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.kaggle.com/ehsanshahbazii) 
+[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://t.me/yasinkgh) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/20102950/ehs4n)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/15362009/ehsan-shahbazi) 
-[![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
-[![medium](https://img.shields.io/badge/medium-%2320232a.svg?style=for-the-badge&logo=medium&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://medium.com/@ehsan_shahbazi) 
-[![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) 
-[![Skype](https://img.shields.io/badge/skype-%2320232a.svg?style=for-the-badge&logo=Skype&logoColor=white?url=https://codepen.io/ehsanshahbazii)](http://join.skype.com/invite/MKC6cRncYViX) 
-[![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
-[![virgool](https://img.shields.io/badge/virgool-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://virgool.io/@ehsanshahbazii) 
 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
