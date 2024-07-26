@@ -17,4 +17,4 @@ const response = {
 ```
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://www.linkedin.com/in/yasinkarimzadehghara/) 
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://t.me/yasinkgh) 
-[![Telegram](https://img.shields.io/badge/instagram-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://www.instagram.com/yasinrsnc/)
+[![Instagram](https://img.shields.io/badge/instagram-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://www.instagram.com/yasinrsnc/)
