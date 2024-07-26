@@ -9,7 +9,7 @@ const response = {
     BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
     MasterDegree: "Finance, Allameh Tabataba'i University",
     languages: ["JavaScript", "Python", "HTML", "CSS"],
-    tools: ["React", "Context API", "Redux", "Styled Componenets", "SASS", "Bootstrap", "Tailwind"],
+    tools: ["React", "Redux", "Styled Componenets", "Tailwind"],
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     quote: "Keep it clean and simple.",
   },
