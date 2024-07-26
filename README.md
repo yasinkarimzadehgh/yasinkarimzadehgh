@@ -28,10 +28,9 @@ const response = {
   },
 };
 ```
-[![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
-[![CodeForces](https://img.shields.io/badge/codeforces-%2320232a.svg?style=for-the-badge&logo=codeforces&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codeforces.com/profile/Ehsan_Shahbazi) 
-[![CodePen](https://img.shields.io/badge/codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codepen.io/ehsanshahbazii) 
-[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/yasinkarimzadehghara)](https://www.linkedin.com/in/yasinkarimzadehghara/) 
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/EhsanShahbazii) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320232a.svg?style=for-the-badge&logo=kaggle&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.kaggle.com/ehsanshahbazii) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/20102950/ehs4n)
