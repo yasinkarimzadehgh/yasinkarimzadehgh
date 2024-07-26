@@ -11,7 +11,7 @@ const response = {
     languages: ["JavaScript", "Python", "HTML", "CSS"],
     tools: ["React", "Context API", "Redux", "Styled Componenets", "SASS", "Bootstrap", "Tailwind"],
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
-    quote: "Do something that makes people's lives easier.",
+    quote: "Keep it clean and simple.",
   },
 };
 ```
