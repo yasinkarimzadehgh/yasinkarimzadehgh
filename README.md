@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yasin Karimzadeh! (Front-End Developer)</h2>
+<h2> Hi, I'm Yasin Karimzadeh (Front-End Developer)</h2>
 
 ```js
 const response = {
