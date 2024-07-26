@@ -20,8 +20,8 @@ const response = {
   data: {
     fullName: "Yasin Karimzadeh",
     birthDay: "1998 February 21, Saturday",
-    Bachelor's degree: "Electrical Engineering, Isfahan University of Technology",
-    Master's degree: "Finance, Allameh Tabataba'i University",
+    BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
+    MasterDegree: "Finance, Allameh Tabataba'i University",
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     languages: [".js(3x)", ".py(1x)", ".cpp(1x)"],
     quote: "Do something that makes people's lives easier.",
