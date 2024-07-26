@@ -1,7 +1,3 @@
-<!--
-# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کن. 😃
--->
-
 ```math
 Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{n}))
 ```
@@ -11,8 +7,6 @@ Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{
 Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
 ``` 
 -->
-
-![header image](Header.gif)
 
 ```js
 const response = {
