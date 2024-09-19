@@ -8,7 +8,6 @@ const response = {
     birthDay: "1998 February 21, Saturday",
     BachelorDegree: "Electrical Engineering, Isfahan University of Technology",
     MasterDegree: "Finance, Allameh Tabataba'i University",
-    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
     quote: "Keep it clean and simple.",
   },
 };
