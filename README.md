@@ -20,8 +20,6 @@ I'm a passionate **React Native** and **Front-End Developer** with a proven trac
 
 ```javascript
 const yasin = {
-  location: "Iran 🇮🇷",
-  languages: ["Persian (Native)", "English"],
   specialties: ["React Native", "React.js", "TypeScript"],
   currentFocus: "Building cross-platform mobile experiences",
   philosophy: "Clean code is not written by following rules. Clean code is written by experience.",
