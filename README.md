@@ -104,15 +104,6 @@ const yasin = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasinkarimzadehgh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=yasinkarimzadehgh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
