@@ -104,16 +104,6 @@ const yasin = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=yasinkarimzadehgh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-  
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 I'm always interested in hearing about new projects and opportunities. Whether you want to hire me, collaborate on a project, or just chat about technology — feel free to reach out!
