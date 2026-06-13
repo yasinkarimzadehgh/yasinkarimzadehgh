@@ -18,10 +18,13 @@
 
 I'm a passionate **React Native** and **Front-End Developer** with a proven track record of building production-ready mobile and web applications. I specialize in creating elegant, performant solutions that prioritize user experience and maintainable code architecture.
 
-```javascript
+```typescript
 const yasin = {
-  specialties: ["React Native", "React.js", "TypeScript"],
+  specialties: ["React Native", "React.js", "TypeScript", "Emotion.js"],
   currentFocus: "Building cross-platform mobile experiences",
+  dataFetching: "TanStack Query (React Query) for smart server state management",
+  analytics: ["Firebase", "AppMetrica"] ,
+  auth: ["OAuth 2.0", "JWT", "Social Login flows"],
   philosophy: "Clean code is not written by following rules. Clean code is written by experience.",
   availableFor: "Freelance projects, Full-time opportunities, Consulting"
 };
@@ -33,7 +36,10 @@ const yasin = {
 
 🎯 **Mobile-First Mindset** → Expertise in building iOS & Android apps with React Native  
 ⚡ **Performance Optimization** → Deep understanding of app performance, rendering, and memory management  
-🎨 **Pixel-Perfect UI** → Creating beautiful, responsive interfaces that users love  
+🎨 **Pixel-Perfect UI** → Creating beautiful, responsive interfaces with Emotion.js and Tailwind CSS  
+🔐 **Auth Specialist** → Full OAuth 2.0 flows, social login, JWT handling, and secure session management  
+📊 **Data & Analytics** → Integrating Firebase and AppMetrica for tracking, events, and crash reporting  
+🔄 **Server State Pro** → TanStack Query (React Query) for caching, syncing, and optimistic updates  
 🔧 **Problem Solver** → Turning complex requirements into clean, maintainable solutions  
 📱 **Full Stack Capable** → Comfortable working with backends, APIs, and databases  
 🤝 **Team Player** → Strong collaboration skills with designers, product managers, and fellow developers
@@ -48,6 +54,7 @@ const yasin = {
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,16 +62,25 @@ const yasin = {
 ### State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Styling & UI Libraries
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend & Database
+### Auth & Security
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Analytics & Tracking
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AppMetrica](https://img.shields.io/badge/AppMetrica-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+
+### Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
